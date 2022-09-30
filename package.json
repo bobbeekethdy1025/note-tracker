@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bobbeekethdy1025/note-tracker/issues"
   },
+    "dependencies": {
+      "express": "^4.16.4"
+    },
   "homepage": "https://github.com/bobbeekethdy1025/note-tracker#readme"
 }
