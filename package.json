@@ -17,7 +17,8 @@
     "url": "https://github.com/bobbeekethdy1025/note-tracker/issues"
   },
     "dependencies": {
-      "express": "^4.16.4"
+      "express": "^4.16.4",
+       "uuid": "^9.0.0"
     },
   "homepage": "https://github.com/bobbeekethdy1025/note-tracker#readme"
 }
