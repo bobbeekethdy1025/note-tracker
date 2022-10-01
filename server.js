@@ -1,3 +1,4 @@
+//code created with help of peers. also had starter code that was provided to students
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
